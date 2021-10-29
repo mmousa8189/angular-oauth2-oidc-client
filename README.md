@@ -3,7 +3,6 @@
 Demo project for  Keyclock SSO integration client using angular.
 
 ![Version npm](https://img.shields.io/badge/npm-v14.15.4-blue)
-![License](https://img.shields.io/github/license/mmousa8189/map-app)
 ![Build Status](https://img.shields.io/badge/build-Pass-green)
 
 ## Install
